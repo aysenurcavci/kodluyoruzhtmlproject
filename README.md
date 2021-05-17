@@ -1,2 +1,2 @@
-# kodluyoruzhtml-dev1
+# kodluyoruzhtmlödev1
 html ödev1
